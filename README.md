@@ -1,8 +1,3 @@
 ### Welcome to my homepage 🤝
 
-| About me                           |
-| :--------------------------------- |
-| A junior majoring in automation 👨‍🎓 |
-| Single 🐶                           |
-| Passionate about computers 🔥       |
-| Interested in deep learning ❤️      |
+非本人主页，本账号仅用于记录各课程知识点，[主页移步]
