@@ -10,6 +10,10 @@ I'm Jiaxi, a student who uses github to share study and life.
 * Interested in machine learning, robot control, mathematics
 * LoL player
 
+## Skills
+
+* *python*
+* *C++*
 
 
 
