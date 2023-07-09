@@ -1,5 +1,3 @@
-# 个人主页
+## About me
 
-大家好，我是Jiaxi！
-
-## 关于我
+Hello everyone, I'm jiaxi, an undergraduate majoring in automation. I use github to record and share my study and life. Welcome to visit my homepage.
