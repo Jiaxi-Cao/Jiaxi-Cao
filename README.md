@@ -12,7 +12,7 @@ I'm Jiaxi, a student who uses github to share study and life.
 
 ## Skills
 
-* *python*
+* *Python*
 * *Cpp*
 
 ## How to contact me?
