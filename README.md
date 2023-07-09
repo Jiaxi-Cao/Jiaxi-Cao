@@ -17,6 +17,6 @@ I'm Jiaxi, a student who uses github to share study and life.
 
 ## How to contact me?
 
-E-mail : jiaxi.cao.1@gmail.com
+E-mail : *jiaxi.cao.1@gmail.com*
 
 
