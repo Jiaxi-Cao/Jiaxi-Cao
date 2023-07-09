@@ -21,5 +21,5 @@ e-mail : *jiaxi.cao.1@gmail.com*
 
 ## Personal page
 
-Details can be found on the personal homepage : https://jiaxi-cao.github.io
+Details can be found on the personal homepage : *https://jiaxi-cao.github.io*
 
