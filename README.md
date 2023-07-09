@@ -1,3 +1,11 @@
+## Personal page
+
+Welcome to Jiaxi's personal page!
+
 ## About me
 
-Hello everyone, I'm jiaxi, an undergraduate majoring in automation. I use github to record and share my study and life. Welcome to visit my homepage.
+* An undergraduate majoring in automation
+
+
+
+
