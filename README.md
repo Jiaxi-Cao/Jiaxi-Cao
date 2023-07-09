@@ -15,5 +15,8 @@ I'm Jiaxi, a student who uses github to share study and life.
 * *python*
 * *Cpp*
 
+## How to contact me?
+
+E-mail : jiaxi.cao.1@gmail.com
 
 
