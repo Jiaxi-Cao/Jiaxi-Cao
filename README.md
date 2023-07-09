@@ -13,7 +13,7 @@ I'm Jiaxi, a student who uses github to share study and life.
 ## Skills
 
 * *python*
-* *C++*
+* *Cpp*
 
 
 
